@@ -1,0 +1,1 @@
+Simple Express app with a middleware function to respond with 'hello world' for any request.

@@ -1,0 +1,17 @@
+{
+  "name": "lesson-10",
+  "version": "1.0.0",
+  "description": "Simple Express Hello World App",
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "morgan": "^1.3.2",
+    "underscore": "^1.7.0",
+    "mongodb": "^1.4.19"
+  }
+}

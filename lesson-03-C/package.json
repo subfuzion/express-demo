@@ -1,0 +1,14 @@
+{
+  "name": "lesson-03-C",
+  "version": "1.0.0",
+  "description": "Simple Express app with a popular middleware for serving static files",
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.9.7",
+    "morgan": "^1.3.2"
+  }
+}

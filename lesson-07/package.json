@@ -1,0 +1,13 @@
+{
+  "name": "lesson-07",
+  "version": "1.0.0",
+  "description": "Simple Express routing example",
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.9.7"
+  }
+}

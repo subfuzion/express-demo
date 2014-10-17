@@ -1,0 +1,13 @@
+{
+  "name": "lesson-03-A",
+  "version": "1.0.0",
+  "description": "Simple Express app with a middleware function to respond with 'hello world' for any request",
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.9.7"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lesson-05",
+  "version": "1.0.0",
+  "description": "Simple Express app that demonstrates specifying address as well as the port.",
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.9.7"
+  }
+}
