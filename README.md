@@ -1,5 +1,5 @@
-express-beginner
-================
+express-demo
+============
 
 Tony Pujals
 @subfuzion
@@ -61,3 +61,38 @@ Simple Express example for serving an API.
 ### lesson-10
 
 Simple Express example using Mongo
+
+
+## Notes
+
+### Useful Links
+
+#### Express
+* http://expressjs.com/
+
+#### Node Docs
+* http://nodejs.org/api/http.html
+* http://nodejs.org/api/net.html
+* http://nodejs.org/api/path.html
+
+
+### Common Middleware
+
+#### body-parser
+
+ * https://github.com/expressjs/body-parser
+ * handles urlencoded and json bodies
+ * for multipart bodies / file uploads try connect-busboy
+
+#### cookie-parser
+ * https://github.com/expressjs/cookie-parser
+
+#### static-favicon
+ * now use serve-favicon
+ * https://github.com/expressjs/serve-favicon
+
+#### morgan (automatic request/response logging)
+ * https://github.com/expressjs/morgan)
+
+#### More: https://github.com/senchalabs/connect
+
